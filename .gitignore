@@ -1,0 +1,31 @@
+# ESP-IDF Build output
+build/
+
+# ESP-IDF Component Manager
+managed_components/
+dependencies.lock
+
+# ESP-IDF SDK config backup
+sdkconfig.old
+
+# IDE history (local file history plugin)
+.history/
+
+# VS Code (personal settings)
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Compiled binaries (prevent accidental commit)
+*.bin
+*.elf
+*.map
+*.hex
