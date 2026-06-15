@@ -15,6 +15,12 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Keil MDK build output
+Listings/
+Objects/
+*.uvguix.*
+*.scvd
+
 # OS files
 .DS_Store
 Thumbs.db
