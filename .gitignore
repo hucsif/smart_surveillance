@@ -2,7 +2,6 @@
 build/
 
 # ESP-IDF Component Manager
-managed_components/
 dependencies.lock
 
 # ESP-IDF SDK config backup
