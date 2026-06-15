@@ -1,9 +1,6 @@
 # ESP-IDF Build output
 build/
 
-# ESP-IDF Component Manager
-dependencies.lock
-
 # ESP-IDF SDK config backup
 sdkconfig.old
 
